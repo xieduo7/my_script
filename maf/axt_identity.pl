@@ -2,9 +2,6 @@
 use strict;
 use Getopt::Long;
 my ($window,$str1,$str2,$box1,$box2,$container1,$container2,@dis);
-GetOptions(
-	"window:i" =>\$window,
-);
 
 my $ref=shift;
 my $query=shift;
