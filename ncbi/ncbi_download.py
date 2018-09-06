@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding utf-8
-"""Duo Xie
+"""Duo Xie(modified from the code from biopython)
 Usage:
  ncbi_download.py (--term=<term>) (--email=<address>)(--name=<filename>)[--db=<database>] [--rettype=<type>] [--retmax=<number>] [--retmode=<type>]
 
